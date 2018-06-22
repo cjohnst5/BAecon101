@@ -1,0 +1,7 @@
+co06_d00_shp: Holds shape file used in QGIS to create migration map of California counties. 
+              Downloaded from https://www.census.gov/geo/maps-data/data/cbf/cbf_counties.html
+              Census Year 2000. State: California
+irsMigrationFlows: Files for county-level migration into California for tax year spanning 
+			  2005-2006 and 2015-2016.
+nhgisMedianCountyIncome: Median county household income for Census years 2000 and 2010. 
+			  Downloaded from https://www.nhgis.org/

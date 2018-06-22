@@ -1,0 +1,8 @@
+Column 1: Destination state
+Column 2: Destination county
+Column 3: Origin state
+Column 4: Origin county
+Column 5: State abbreviation
+Column 6: Destination county name
+Column 7: Total number of returns (roughly the number of households immigrating from County A to County B)
+Column 8: Total exemptions (roughly total number of immigrants from County A to County B) 
